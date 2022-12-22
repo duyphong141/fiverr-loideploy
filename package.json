@@ -1,6 +1,7 @@
 {
   "name": "fiverr-youtube",
   "version": "0.1.0",
+  "homepage": "https://duyphong141.github.io/fiverr-loideploy/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -9,14 +10,17 @@
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@material-ui/core": "^4.12.4",
-    "@mui/icons-material": "^5.10.16",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/lab": "^5.0.0-alpha.113",
     "@mui/material": "^5.11.1",
+    "@mui/styles": "^5.11.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.1.3",
     "bootstrap": "^4.6.0",
     "formik": "^2.2.9",
+    "gh-pages": "^4.0.0",
     "history": "^4.10.1",
     "moment": "^2.29.4",
     "node-sass": "^8.0.0",
@@ -41,7 +45,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
