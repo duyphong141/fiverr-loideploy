@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fiverr-loideploy/static/css/main.c2f0a0d8.css",
+    "main.js": "/fiverr-loideploy/static/js/main.9a5be257.js",
+    "static/js/787.e0c11569.chunk.js": "/fiverr-loideploy/static/js/787.e0c11569.chunk.js",
+    "static/media/bg-hero-1-1792-x2.jpeg": "/fiverr-loideploy/static/media/bg-hero-1-1792-x2.a768619422f2ef9fdf19.jpeg",
+    "static/media/bg-hero-3-1792-x2.jpeg": "/fiverr-loideploy/static/media/bg-hero-3-1792-x2.f77547a67643c336d29a.jpeg",
+    "static/media/bg-hero-5-1792-x2.jpeg": "/fiverr-loideploy/static/media/bg-hero-5-1792-x2.588413f4900b4dd1aecb.jpeg",
+    "static/media/bg-hero-4-1792-x2.jpeg": "/fiverr-loideploy/static/media/bg-hero-4-1792-x2.5989028eaa3466ea535b.jpeg",
+    "static/media/bg-hero-2-1792-x2.jpeg": "/fiverr-loideploy/static/media/bg-hero-2-1792-x2.9d4b05aef88911417763.jpeg",
+    "static/media/slick.svg": "/fiverr-loideploy/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/fiverr-loideploy/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/fiverr-loideploy/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/fiverr-loideploy/index.html",
+    "static/media/slick.woff": "/fiverr-loideploy/static/media/slick.295183786cd8a1389865.woff",
+    "main.c2f0a0d8.css.map": "/fiverr-loideploy/static/css/main.c2f0a0d8.css.map",
+    "main.9a5be257.js.map": "/fiverr-loideploy/static/js/main.9a5be257.js.map",
+    "787.e0c11569.chunk.js.map": "/fiverr-loideploy/static/js/787.e0c11569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f0a0d8.css",
+    "static/js/main.9a5be257.js"
+  ]
+}
